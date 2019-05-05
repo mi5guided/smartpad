@@ -1,0 +1,27 @@
+{
+  "name": "smartpad",
+  "version": "0.1.0",
+  "description": "A module to help tinkerers use the MiDiPLUS SmartPAD for their own projects.",
+  "engines": {
+    "node": ">=10.0.0"
+  },
+  "main": "./lib/index",
+  "scripts": {
+    "test": "node tests/basic"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mi5guided/smartpad.git"
+  },
+  "keywords": [
+    "midi",
+    "midiplus",
+    "smartpad"
+  ],
+  "author": "mi5guided",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mi5guided/smartpad/issues"
+  },
+  "homepage": "https://github.com/mi5guided/smartpad#readme"
+}
